@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "TextToTMP.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "TextToTMP.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TextToTMP.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextToTMP.Editor.dll": {}
+        }
+      },
+      "TextToTMP.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TextToTMP.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TextToTMP.Runtime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextToTMP.Editor/1.0.0": {
+      "type": "project",
+      "path": "TextToTMP.Editor.csproj",
+      "msbuildProject": "TextToTMP.Editor.csproj"
+    },
+    "TextToTMP.Runtime/1.0.0": {
+      "type": "project",
+      "path": "TextToTMP.Runtime.csproj",
+      "msbuildProject": "TextToTMP.Runtime.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "TextToTMP.Editor >= 1.0.0",
+      "TextToTMP.Runtime >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/pkluska/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/pkluska/PWr Survivors (4)/Assembly-CSharp.csproj",
+      "projectName": "Assembly-CSharp",
+      "projectPath": "/Users/pkluska/PWr Survivors (4)/Assembly-CSharp.csproj",
+      "packagesPath": "/Users/pkluska/.nuget/packages/",
+      "outputPath": "/Users/pkluska/PWr Survivors (4)/Temp/obj/Debug/Assembly-CSharp/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/pkluska/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/pkluska/PWr Survivors (4)/TextToTMP.Editor.csproj": {
+              "projectPath": "/Users/pkluska/PWr Survivors (4)/TextToTMP.Editor.csproj"
+            },
+            "/Users/pkluska/PWr Survivors (4)/TextToTMP.Runtime.csproj": {
+              "projectPath": "/Users/pkluska/PWr Survivors (4)/TextToTMP.Runtime.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

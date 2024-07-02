@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 342a2881430b0d341bfd30449f0968de, type: 3}
+  m_Name: Kebab
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: c79f3c9b5ef21bf45872561d486f9ffb, type: 3}
+  maxLevel: 3
+  evolutionData: []
+  behaviour: AuraWeapon
+  baseStats:
+    name: Kebab
+    description: "Zadaje obra\u017Cenia wok\xF3\u0142 gracza."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 8625141518121640235, guid: 37d9d749542df0245b2aa859dfa4eed4, type: 3}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 5
+    damageVariance: 1
+    area: 1
+    speed: 0
+    cooldown: 1.3
+    projectileInterval: 0
+    knockback: 1
+    number: 1
+    piercing: 0
+    maxInstances: 50
+  linearGrowth:
+  - name: Poziom 2
+    description: "Obszar wi\u0119kszy o 40%. Obra\u017Cenia zwi\u0119kszone o 2."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 2
+    damageVariance: 0
+    area: 0.4
+    speed: 0
+    cooldown: 0
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  - name: Poziom 3
+    description: "Czas mi\u0119dzy aktywacjami mniejszy o 0.1 sekundy. Obra\u017Cenia
+      wi\u0119ksze o 1."
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 0}
+    hitEffect: {fileID: 0}
+    spawnVariance:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 1
+    damageVariance: 0
+    area: 0
+    speed: 0
+    cooldown: -0.1
+    projectileInterval: 0
+    knockback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 0
+  randomGrowth: []

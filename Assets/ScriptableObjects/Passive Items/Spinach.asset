@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dac3d31d43a664297b6e3faf1a3e8c, type: 3}
+  m_Name: Spinach
+  m_EditorClassIdentifier: 
+  icon: {fileID: 960194188, guid: abb80d1c3fe0a4d0bb4f51aea51ad12a, type: 3}
+  maxLevel: 4
+  evolutionData:
+  - name: Knife + Spinach
+    condition: 1
+    consumes: 2
+    evolutionLevel: 1
+    catalysts:
+    - itemType: {fileID: 11400000, guid: ebf26fdb484769f4ba684fa7d7a0511c, type: 2}
+      level: 3
+    outcome:
+      itemType: {fileID: 11400000, guid: aba5500c98d45b04dabd56405ee45843, type: 2}
+      level: 1
+  baseStats:
+    name: Szpinak
+    description: "Zwieksza zadawane obra\u017Cenia o 100%"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      moveSpeed: 0
+      might: 1
+      speed: 0
+      duration: 0
+      magnet: 0
+      cooldown: 0
+  growth:
+  - name: Poziom 2
+    description: "Zwi\u0119ksza obra\u017Cenia o kolejne 50%"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      moveSpeed: 0
+      might: 0.5
+      speed: 0
+      duration: 0
+      magnet: 0
+      cooldown: 0
+  - name: Poziom 3
+    description: "Zwi\u0119ksza obra\u017Cenia o kolejne 50%"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      moveSpeed: 0
+      might: 0.5
+      speed: 0
+      duration: 0
+      magnet: 0
+      cooldown: 0
+  - name: Poziom 4
+    description: "Zwi\u0119ksza obra\u017Cenia o kolejne 100%"
+    boosts:
+      maxHealth: 0
+      recovery: 0
+      moveSpeed: 0
+      might: 1
+      speed: 0
+      duration: 0
+      magnet: 0
+      cooldown: 0

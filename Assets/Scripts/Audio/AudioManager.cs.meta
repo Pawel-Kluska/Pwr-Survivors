@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5bdd84416cf894f1982cc1a17abeb32e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - backgroundMusic: {fileID: 8300000, guid: 9d064eb56f3e5459d81f13625ede2867, type: 3}
+  - backgroundGameMusic: {fileID: 8300000, guid: 646c72d7f24f94ab7928d7925a23bff0, type: 3}
+  - buttonClick: {instanceID: 0}
+  - hurtSound: {instanceID: 0}
+  - levelUpSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - collectSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

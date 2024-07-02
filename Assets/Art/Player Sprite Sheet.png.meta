@@ -1,0 +1,6463 @@
+fileFormatVersion: 2
+guid: 41789256fabd4d5479043ae0796f2796
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3024
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd8bf3674c7a5f4797f05c919d7237a
+      internalID: -1070957679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3024
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f1e142a241b74d80f83f36952bf38
+      internalID: -1499374126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3024
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf9b66e48605e41b3063359c592d23
+      internalID: -170615212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3024
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da27e7381fd8adb49911f8d350f0e80d
+      internalID: -682558648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3024
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6242385818bbc940ba7f0c9f3ad6d01
+      internalID: -2130126276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3024
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d62aff584761489987b40476eaa5c
+      internalID: 1104913557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3024
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457eadfcab4c9a408a9a963e03aa19a
+      internalID: 1282041214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3024
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8b39fbcac1964e80a5bac7bd21e7a
+      internalID: 114774249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2959
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5322d003158445a9a909e219a4e2f
+      internalID: 1340818135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2959
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1848f7cf09b5d848b34fe9acf4fb36c
+      internalID: -2014229169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2959
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64302321209556244957c3b52c3783b0
+      internalID: -193029334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2959
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0882ec40022594b909527533d54142
+      internalID: -1049807299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2959
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e229dfe9f59ea488ddbc0fdd69428d
+      internalID: -830811035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2959
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf1f5a2d03cf1438bd4ef621512ddc
+      internalID: -731764961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2959
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd60f104db253e4f905898064545e68
+      internalID: -187736105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2959
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785f0092e137a541b7857bcf05c1ec1
+      internalID: -249044656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2896
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61bb275b41d07d4fafabbc8fa2117b3
+      internalID: 539694740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2896
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aeeb3dd0bca924a9ef8932bc4b8516
+      internalID: 1543802825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2896
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03612c1e2c2482e4d81fbc8165bfa9bb
+      internalID: -1065052403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2896
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d2c248378d6240a566f9e4a04eede
+      internalID: -1977230729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2896
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6becd58f0adb14547a41f8622d319e87
+      internalID: -1442019201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2896
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420ec467f69f31c418dc658e341478b8
+      internalID: 987083813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2896
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2ef4d1be5c0741a34b371cc68407e
+      internalID: -753341108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2896
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8772ffb03b7f984780d7379b5a582b3
+      internalID: -808225461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2832
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6fca7fd8b7bd749ba53b8e3717c06e
+      internalID: 475045992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2832
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a01f428a8d54a94cab4fce56947e1d1
+      internalID: 928231281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2832
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c771005e689a44ea1b4f16e3057f16
+      internalID: -600139733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2832
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b1ce185866fa4484654a01e6f269c
+      internalID: -315369843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2832
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27480e161221514cbedb7dc3979822c
+      internalID: 1655055024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2832
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17b1befdaaffa04192f976130ff613e
+      internalID: -1804619694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2832
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f98e862e8d47a49b7b23a4605ed92e
+      internalID: -53087181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2832
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a5aa197e2358a40871456dd957295f
+      internalID: -18936747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2767
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ca7e11e529c64a9b66ba3343e4830
+      internalID: 1223048712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2769
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3914e595135bf2b44bf813b89ec38044
+      internalID: -1109335141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2770
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479206275f866ff46af255145391af8d
+      internalID: 494964490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2770
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3987346b65ea51746980e0ea819f0937
+      internalID: -687092633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2767
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69270dd4c5e3b8459e1a68ecdb93b8a
+      internalID: -1925449206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2769
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42aa5cfe37305447bb393fb1dd58180
+      internalID: 1271694547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2770
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eca250d056d0a449bc5eaa53719abd
+      internalID: 43622725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2770
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a251583e64844943bb312fb85dc61e1
+      internalID: 1649568744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2704
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883db29c62a21a45a1d02cae17dd7ce
+      internalID: -450247025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2704
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97beccc5678ec984994f1e2ca185c8a1
+      internalID: 475858636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2704
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0615598d0dad8142a9a092ce16f2d70
+      internalID: 274085702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2704
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058aa87d5ca78984a87c8fd09568eb1a
+      internalID: 1436702918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2704
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e635cad4942d4fb5d656059904715
+      internalID: 250298845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2704
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a38fa31eed8f4ead81af72c01f7e9
+      internalID: 1940495833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2704
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09503f2208236344a77d3d46fb762fe
+      internalID: 1846395641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_47
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2704
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c377a6e31425e9946a755888e05f83ee
+      internalID: -805563891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2641
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8a96af4a51d0e40afda37d42e9ccf0
+      internalID: -1634812270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2640
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac638c790cd21d4fba4714a4f64d812
+      internalID: -607059773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2638
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc7f9374a253b845a7b9fb5637b0ffd
+      internalID: -2046718664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2638
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f234d615ab5c43856c52810b2794e
+      internalID: -1549388629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2641
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98407ae838869214bb965d62182fc9b5
+      internalID: -482531584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2640
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c486d0f649b607546b7676af1c242cec
+      internalID: 1661211207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_54
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2638
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85639f62e2092438fba0131756129e
+      internalID: 1463860994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2638
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06e036e061adb4989a803d2610bc14
+      internalID: 1596260677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2575
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f296d6744895148a84af4d8c9f29e4
+      internalID: 1316140930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2575
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0e9e60fc46194686bd3fcc6ac1fab
+      internalID: -736537551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2575
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be67fb1a52058d42a31ffc576737d20
+      internalID: -1235252338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2575
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d12101ed3931042ae3a5f2d70537ce
+      internalID: -2049746825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2575
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f1f54829c0ba40b8d19928b0d1d7f
+      internalID: -1787330274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2575
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69389b1cd7358334ca01efd3a3b6443e
+      internalID: 623844885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_62
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2575
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5769e37ac48844a07cd577072fd6e
+      internalID: 1068087595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_63
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2575
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d58600b2ff0d4fa322fe61cb0bb12
+      internalID: 1546478640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2511
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f290e691b293d3545a4f297abb2f4da0
+      internalID: -336653806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2512
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636f99f2b55ad84a9e26232e5ced742
+      internalID: -1693755334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2515
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb286756797684b8242a2eedd3f021
+      internalID: 1276549144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2517
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb621fb9c46236488095ad82654186c
+      internalID: 928915072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2511
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307cb0e2861d56e49b38446c9f3f8bd9
+      internalID: 1978447755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2512
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232c4bbe4d78a624fa6816e240f996ab
+      internalID: 1125806801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_70
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2515
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131fe57e815f0a40882e99a0c476ba0
+      internalID: -313607590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2517
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea526b6dbcade4eaef9a7d32e530d9
+      internalID: 2008954411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2449
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3d4cc71972004bb22f808f8bd59c9
+      internalID: -685621293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2449
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c557b5663409aae4fad977c319789861
+      internalID: 111803661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2448
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1719d6794344794da2a3326473b6f0d
+      internalID: 980942157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2448
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389ae82ec82754842b81db7c46024fdd
+      internalID: 1730396701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2449
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160bef5042e69ed40996a79faa1e650d
+      internalID: 1247276619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2449
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348758e4c5df254408b10b4a900be6fb
+      internalID: -663399174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_78
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2448
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3d192a7441d54197b42b917fb7ef1
+      internalID: -1762798744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_79
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2448
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e06f12d99892438157b8e6419531d
+      internalID: 264028578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2380
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1364db7f9d134548881326c9aa1efb4
+      internalID: -1726122451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848322098040e654d9906ba62870bee9
+      internalID: -1925380965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2380
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31a7ac3bef39447b1ceb76080cd6fb
+      internalID: 2014882258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2380
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75566212e05164b449fb8206bd731f89
+      internalID: -916294294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_84
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2380
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3c92235a6538047a8ed59984e5975e
+      internalID: 2083855364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81906a0fdc26e44b0addeb0d273a09
+      internalID: -1113663657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_86
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2380
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75a7ae54d94cd45948c43ddab37faf
+      internalID: -2079399002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_87
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2380
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373bea5fa7501bc4c8b5213f80aa3a7c
+      internalID: 779433737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a031b48084fb894884a053996ad6d7c
+      internalID: 659470601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_89
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2320
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f927c042932043a94dd451eb016c5
+      internalID: 130681323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2320
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7874e6bd7aef994b9148a119f43d71e
+      internalID: -829539020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2320
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ca585205966a46a1282618bf02784
+      internalID: -906501241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2320
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6df5985c71864eb1bd8d22f66a94f
+      internalID: -1377993177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2320
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff82855b930b1b418931ddac41b1407
+      internalID: 1738010118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2320
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c535690abc9c4f94139e2cadf9ebb
+      internalID: -1486040694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2320
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01baa52e3399e4479f6fb5cea596c02
+      internalID: 371047281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2257
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13adf49c2c7c7c54b9b7ff96a03e87b1
+      internalID: -735771390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2253
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fcc9bdee131af4ca71eaed13219f29
+      internalID: -1585403661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2253
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa358c456d8e0a24996dfa008299b7fc
+      internalID: 948094449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2254
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd8e8eb5e06b24a83bcfe193ebde86
+      internalID: -208459979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2256
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c540f4228ea6d49bcafa99201d3048
+      internalID: 996148633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166aaae72c51dac4b921629feec4ffff
+      internalID: -1367496074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2191
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a8f3e56913f344a809b2b75fc63a5
+      internalID: 1618436701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_103
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2191
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f622dca568d6449df9472915d19c8
+      internalID: -2119134049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2191
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2b4ebcd1e6bf4c8f6f96e737a6c29
+      internalID: -1367182834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_105
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2191
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585d296c60f55141a06905270ffa559
+      internalID: -106939164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_106
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2191
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63a86c97faee4448023cea24409e95
+      internalID: 426518956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_107
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2191
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01759f15ccfc2fc4eb4ac6ce051966b9
+      internalID: -2085937670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2125
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74fa5aad81e3148b3c7321099fc61a
+      internalID: -1528965415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2125
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70f8876557ea744824b660e65550b8
+      internalID: 540965377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2127
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea4023b4785bd42a6713e798d417ca
+      internalID: -125941601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2127
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9710274ef1db50c44b89c6952af65849
+      internalID: -1105279060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_112
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2125
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c16253cd0fbb49a6cb3567b30717b
+      internalID: -1659850980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2125
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6232c65ffea7544adcbdb2876caad2
+      internalID: -1458464168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2062
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b058eeb0e933468d9aa4ce2620046
+      internalID: 1431649964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2062
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b78685059ec3f4abc71fdaeb0489d6
+      internalID: 2009159477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2062
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a0bd2dc2ccfe44fa1fe85676241de8
+      internalID: 1118449723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2062
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b132c449d5b8b34c9482c4bef52b1ff
+      internalID: -412719581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_118
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2062
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2639d6509d8c4aa521b905115c098
+      internalID: -1125516486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_119
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2062
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a56f558eac0e4a90deb72a5dedfc2
+      internalID: -2047693641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2001
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec9336944663214da25268faa79bd52
+      internalID: 1082014505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2001
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8caf6ac2ec72f64e868971c1c363655
+      internalID: 1078950537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1998
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53572686629b54b458331ad36f2652ee
+      internalID: -1243539552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_123
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1998
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123281af8d8880e41898260701e765b9
+      internalID: 792524704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1999
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c2c704add12f649a255a9f14c11486
+      internalID: 1933235135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_125
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1999
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee8dc355e13054db1503603a885266
+      internalID: -622221642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_126
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1935
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67b4b9f94d2ef4c883084c92f8b837
+      internalID: 1910983001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_127
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1935
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7df1ad4386f5e41b851d91a2b76e02
+      internalID: 1098413117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_128
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1935
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2428dc87f65de3479b92c97cf16165d
+      internalID: -1626753806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1935
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956b66e12f200a47b52d665990833c1
+      internalID: 785478988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1935
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e52a4c2cd2ff7d43a5993accbee757e
+      internalID: 1440104112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1935
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e8f4d525fc1144bc38dba20ebfa44
+      internalID: -137262190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1870
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ed987653737a449100876672f7ace
+      internalID: -1390784679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_133
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1870
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ad9ded1e4c474ebcdfbc29acf42a4
+      internalID: 433796102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_134
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1870
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48640e95f9dcf0746ad7ad6b8618b1f3
+      internalID: -1954194275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_135
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1870
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387d8f31dbf0f614abe293e798a2389e
+      internalID: -212971327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_136
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1870
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21116b964f8c3df4d8b5ae8a21e1ecc7
+      internalID: -1897443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1870
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984e809df072574fb47bc5ef9314f28
+      internalID: 1765312400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_138
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1807
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3687600db9b1a4aa90e97221ffc9dc
+      internalID: 1328399140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_139
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1807
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a7ddfb7cf28247905ff444c14e9ab
+      internalID: 2108481433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_140
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1807
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e74ff263dafdc44baca859274f70701
+      internalID: -1097421212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1807
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff2424335bce60449dc3558c309c4a2
+      internalID: 1833056934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1807
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729990d490e6c1f4095d4cbf498617e8
+      internalID: 574107910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_143
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1807
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05527ecfcd1c35d4b85a6068e23b44f0
+      internalID: 25609541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1744
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b516798b4a32c4692ebd5a32ff195e
+      internalID: 962433175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1744
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a61fec6a079c4a8e24fac0763ffcf
+      internalID: 864289106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1743
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ad24c6f4ef41e41a7424cf2be0edb7
+      internalID: 187509982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_147
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1743
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7bb015844705641a9df5bb4eb2abe0
+      internalID: -245599717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_148
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1743
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870cbdceff50996448e0edad84272b59
+      internalID: -649961093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1743
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa75248fa261ce14289f2af531aea716
+      internalID: -1963532943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_150
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1743
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a24201c1ccef246a141965ddbdf269
+      internalID: 1173950244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_151
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1743
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd1b9bb7340e54698ec2b5e97af125
+      internalID: -683430646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_152
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1744
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d817355fa5fa341b6ad87fc9864f03
+      internalID: -252523498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_153
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1744
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b36303ce17d8c4593f9cf7deabec4b
+      internalID: 1990719359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_154
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1678
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8258f1c5f37547340a7b0f171586bfe1
+      internalID: 644097598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1678
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895c4158a4c89b42a4d46120b6741d8
+      internalID: 1808163530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_156
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1678
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd87986e58a38c4390564cde3663efe
+      internalID: 715035394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_157
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1678
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fc51d54b8ad2e4a9c82d8df468e685
+      internalID: -44109759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_158
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1678
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ee3a0f5fb947479185c9442d63ee9
+      internalID: -1983270461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_159
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1678
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a613d4812c4d94428466c638a92b599
+      internalID: 202549496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_160
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1678
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787115115a8e8648a3027d402194f33
+      internalID: -1970936502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_161
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1678
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130d4d30b55d9d4b9c557195cd26e8d
+      internalID: -1899738585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_162
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1680
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4656073857087d4f80fc91e061ed505
+      internalID: -475118503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_163
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1680
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a135f82a9d9d408af179760f38bb2
+      internalID: 58378928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_164
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1615
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851e4faace1c1c449e47c730d74f2ca
+      internalID: -651342833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_165
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1615
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdec5c26f604b04996bc3da4bf56b38
+      internalID: 1595035252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_166
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1615
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe0cb374034b144868eb8bc4b4f002
+      internalID: -1321374405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_167
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1615
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a46c731ad09141bece63590d9071e
+      internalID: 570187748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_168
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1615
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb511e686d8384da83ee222220cfb4
+      internalID: -412226669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_169
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1615
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2559c5c2244a53245abc299ce0ee9fd9
+      internalID: -463516793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_170
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1615
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a795e6e5f9de74e9db483cd3d30993
+      internalID: 500083520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_171
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1614
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a1e82ea02b724d98a93bf16e09464
+      internalID: -1820431147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_172
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1614
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c5ad2aeb956e64ebbfc3ccc9008cd8
+      internalID: -382986282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_173
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1614
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157dbb3eee648084eb98e3b0b1beac6f
+      internalID: -1337713330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_174
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1551
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dac0889a4a2bb4abf15f8b21ff3e08
+      internalID: 1840120782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_175
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1551
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee111699bc59641b0d7f71da3c2adb
+      internalID: -165072586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_176
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1551
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae573cb1459634dbd516879582069d
+      internalID: -316835306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_177
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1551
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49794fa97b14c1841ae31490c8ed2580
+      internalID: 233118386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_178
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1551
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7856c8049177349a66729688e4140c
+      internalID: 714944566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_179
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1551
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b3081f733d624fab338c6bcddfe7a
+      internalID: 1246909820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_180
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1551
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e73fdc327c07d4ca409ac60076a6f7
+      internalID: -543750766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_181
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1551
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3343beb3f170f343ad33551893fa2d0
+      internalID: -1610064942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_182
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1552
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7ada38b0ec7f4d8a6022bb0b3c933
+      internalID: 827938611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_183
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1552
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc0aec25108ae4a98f338c6aff63b8
+      internalID: -1611315179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_184
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1488
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74bbfc84b3d90542a7e83c7840e9000
+      internalID: -66575840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_185
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1492
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789ecffd7f971349a418e3ec5a54db0
+      internalID: -487762423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1489
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c97158ae79c04287231204758dd84
+      internalID: 41891991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_187
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1423
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e321b7043fa8b429e1b6830db2986a
+      internalID: -819508676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_188
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1423
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ace5fe69c91872449fdd3cfd4a0696d
+      internalID: -1792732213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_189
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1423
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0aac108d85fc04eac523c1c298bc7c
+      internalID: -26233198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_190
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1359
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299aa0e58b7ca04c8e8f42bfe03f0ca
+      internalID: -649108083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_191
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1357
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7cf6ca560ea34c82fba365f8582e8
+      internalID: -739551470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_192
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1356
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b67551a6879244e9889c5ecdd85c9c
+      internalID: 1559780428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_193
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1296
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cbec668f7a65d41926b7e7a0371dd6
+      internalID: 1409411478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_194
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1296
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eae4c65e892a14dbcf2f552f6a1105
+      internalID: -1992589994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_195
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1296
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa178168ebebc654cbc55aebd4d47890
+      internalID: -696476020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_196
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1231
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d29b9c84a3a3439f7cb10c5338dac
+      internalID: 309470177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_197
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1231
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9c41bec3f36941b4de9e1216cd12d
+      internalID: -1669961946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_198
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1168
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa39cc5f7cc2fc4e84a071ed98e412d
+      internalID: -2048825286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_199
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1168
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c6715b7d597948a050dcc72ffa7b0
+      internalID: 1984321079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_200
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1104
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26ea4308abee140b81e414621b51c6
+      internalID: 1557552712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_201
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1104
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd0bc0b67cba447964d59069e7a682
+      internalID: 1417385211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_202
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1039
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55437328a37fd446b6d8ba6006e3eaf
+      internalID: -589865612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_203
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1039
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357461aaf7a9e794ead15733fb3cb20d
+      internalID: 9819761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_204
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 976
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8d87a9cdebf7645a9e2d3218c50ae3
+      internalID: -1787351831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_205
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 976
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a8b8830d1edb42a7aadf616367064
+      internalID: -1917904849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_206
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 976
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6fe9b2d9e7bb74680b0146295a8c2f
+      internalID: 645328488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_207
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 976
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebc8ababe770184a9947bcbe8f23b92
+      internalID: 806253984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_208
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 976
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2de2f7345a7c348ad08379182439fa
+      internalID: 569194014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_209
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 976
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b31f7022c8fbb4b8e54c84186f76f1
+      internalID: -888272604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_210
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 976
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf7c9661f061e94e8ec9ce371721b29
+      internalID: -41840576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_211
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 976
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea974a9bf82f31143a0a1a247b5b3170
+      internalID: 1523046105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_212
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 912
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb2498f8fa989419c9b5412f8bc623
+      internalID: -228703796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_213
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 912
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5911ea591179e464ba010c8759282dd8
+      internalID: 679282362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_214
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 912
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac360193179ce4093502111ffe4f03
+      internalID: -524575680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_215
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 912
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a564f3e721b2d45b659d44222c0664
+      internalID: 264726846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_216
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 912
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41065278a576a478781c3294b76661
+      internalID: 1394482684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_217
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 912
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f334fe44c991b44f8be32246fcd458d
+      internalID: 490029717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_218
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 912
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728721d0bc91d649876d7ba64ec5a30
+      internalID: 1741764525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_219
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 912
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb1e8656190dd4ab5bef3ed9ddf2dd
+      internalID: 257539188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_220
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 847
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fe51d4c7ed2474cb81a1643fbe1850
+      internalID: -32607603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_221
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 847
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb24bebfc6d7c49a4a1fa8682a19e8
+      internalID: -1472364334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_222
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 847
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3e2ac5a106a24da0f1c81a5fd7067
+      internalID: -883557880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_223
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 847
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fec6e9725879c43bc9efbf73b646d1
+      internalID: 229922599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_224
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 847
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ccdc2af23c1944be51a2f7e1fe889
+      internalID: 308149708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_225
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 847
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8511c4066ba5304a9390575c48be91b
+      internalID: -835351053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_226
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 847
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e2e7cdaaa8af4996e10dfac68e46c
+      internalID: -11810816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_227
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 847
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0dbad9a2dd8ad42af5270213f94ed3
+      internalID: 920812408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_228
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 784
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed63dfed0764cc4da0deeb9da4d79a4
+      internalID: -1594665405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_229
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 784
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7739584106a2a8419ce431c6ee3170e
+      internalID: 209158782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_230
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 784
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f00a83e80b042948b3e442bab5d9fe7
+      internalID: 549839706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_231
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 784
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf11acb5d1b7654ebe4f00d59fd7252
+      internalID: -1103471359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_232
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845684d97950e714b93c7df464e3af51
+      internalID: 1041106254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_233
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 784
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737cc406742f31459a538d5fd607d54
+      internalID: 863252685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_234
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 784
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d095c68e74f24d957bb2ae2bc91c9
+      internalID: -713212864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_235
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afed410d925392748b81cdba8bc453b0
+      internalID: 16774787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_236
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 720
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9921b4dfe7012204e8da50088045afeb
+      internalID: -1175404363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_237
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 721
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00466047894ee604f92fea6ca97b6039
+      internalID: -288807199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_238
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 721
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e540d56f8d14c4baa5ff89505f290a
+      internalID: 1801753953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_239
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 723
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1683df8cf7f8a448109f36d2768b1a
+      internalID: 692576514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_240
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 720
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89400dadf05b0a64e92149191d7b062a
+      internalID: -255176448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_241
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 721
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41e99de3122d34a9d5c0db3d8b1aad
+      internalID: 1224551043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_242
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 721
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f4bee6d6bdd142a3e81b2fafce747
+      internalID: -478525102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_243
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 723
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd393c80320fc7c479e942e7c53d5288
+      internalID: 672084632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_244
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 655
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9561db0b1a054bb78ac0a2d805ed2
+      internalID: 1462570743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_245
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 655
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570dc3ba52141e34794decb1b1285154
+      internalID: -1852390612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_246
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 655
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39387ec7ecc4404cb48ec2ef8e5065b
+      internalID: -2134248517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_247
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 655
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9561e10d9811bbf48aa6bf9b7827b762
+      internalID: -2111198813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_248
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 655
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03229c875c37df442ac262a50b759a8c
+      internalID: -190924857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_249
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 655
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e43b259562064e8154163f999009b
+      internalID: -598326726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_250
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 655
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f069e5aaba1e947a69209903f8f0a4
+      internalID: 1905624310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_251
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 655
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842e223f14fefd4c96f16bc817f2476
+      internalID: 1326758421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_252
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 592
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c67e719d3af924d9f8610d8d8763b0
+      internalID: 142755823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_253
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 592
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a8da5e8e49cd468d831e21aaa9615
+      internalID: -1585944386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_254
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 591
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd30c143e1bac4fafeee74ca9e3718
+      internalID: 1891501011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_255
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 591
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434f9897165ad24b9de22aadbd38b07
+      internalID: -2027140105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_256
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 592
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4060d247f7cc95f44ab23b5d4a13e17b
+      internalID: -634751285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_257
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 592
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92575da527ff3184fae3f099b9a8793d
+      internalID: -412952033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_258
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 591
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e1f5e77a86b034da1b909c66882e74
+      internalID: -407183379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_259
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 591
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4606836a54e64bbe0b220c374a2fe
+      internalID: 1259780024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_260
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 528
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d40157bd388f46bdb925e0de4810c
+      internalID: -780243217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_261
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 528
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1c8450e5bcda4d918c1541bd9203a
+      internalID: 974158033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_262
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 528
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2c387a80ca4fa4191b780cb4164a50
+      internalID: 629358621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_263
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 528
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278536f456f26344da04f1b4730bbc27
+      internalID: 998068545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_264
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 528
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f954b5700a0a4990a3f0be415e685
+      internalID: -1673124762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_265
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 528
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918a46f3848464a4da57b17b0e713c92
+      internalID: 2067482836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_266
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 528
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2dff1c0b69e6439ba90502e03e7f2
+      internalID: -1430798115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_267
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 528
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c68aaa5a46e94ab244d2d11985cef
+      internalID: -1405983834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_268
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 463
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ae52c71c073d43827615e6209f4cd
+      internalID: -1582880835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_269
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 468
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be185d98ec12aa242b3bfd790137f84d
+      internalID: -636192509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_270
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 465
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c293819ac4b94c9c6d7d266ddb415
+      internalID: 549400493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_271
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 400
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a57c7e75bc7a41ad596d2c3513ce7
+      internalID: -2114308963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_272
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 400
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39934633b1c25e4683e681bd75566fe
+      internalID: 1776984524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_273
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 400
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4936e38a3fd547aa9b31f4615dba5
+      internalID: -2093442691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_274
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 334
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa286b17694c7499a278ff6deaa383
+      internalID: 1379714412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_275
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 334
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c762b196b727a48a59a15aa89edfa9
+      internalID: 1915700892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_276
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 331
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fde44995dbd80d45b8aec3f7493c792
+      internalID: -299961493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_277
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e124cf8ed5df4db953020924d31b7
+      internalID: -1717030698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_278
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 271
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c51b0cfc029941af3a8981ccdc3ff
+      internalID: 532984265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_279
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbcc592678976d4095cc1b852c8a802
+      internalID: -783041662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_280
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536fd1e9daba53e48b0445698b8ba94c
+      internalID: -802944260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_281
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 208
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d78e022a00b4344cab9661e73e660a2
+      internalID: -1762722261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_282
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b7f7992e0e7a40a644d608da69565
+      internalID: 1658388882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_283
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae1a48758350bc4488c48083dc68090
+      internalID: 1116654485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_284
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 79
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf1361c0c7c80c4a8dd0032424be7a6
+      internalID: -905436928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_285
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c3cf2ea7db20449f767aa3a93649a
+      internalID: 1791421501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_286
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068dae0455c88524a84fb0fc118dda37
+      internalID: -1869967506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hoodlum_P3_287
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe071556f40ae8545a07ace482d407de
+      internalID: -2069080019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Modern_Hoodlum_P3_0: -1070957679
+      Modern_Hoodlum_P3_1: -1499374126
+      Modern_Hoodlum_P3_10: -193029334
+      Modern_Hoodlum_P3_100: 996148633
+      Modern_Hoodlum_P3_101: -1367496074
+      Modern_Hoodlum_P3_102: 1618436701
+      Modern_Hoodlum_P3_103: -2119134049
+      Modern_Hoodlum_P3_104: -1367182834
+      Modern_Hoodlum_P3_105: -106939164
+      Modern_Hoodlum_P3_106: 426518956
+      Modern_Hoodlum_P3_107: -2085937670
+      Modern_Hoodlum_P3_108: -1528965415
+      Modern_Hoodlum_P3_109: 540965377
+      Modern_Hoodlum_P3_11: -1049807299
+      Modern_Hoodlum_P3_110: -125941601
+      Modern_Hoodlum_P3_111: -1105279060
+      Modern_Hoodlum_P3_112: -1659850980
+      Modern_Hoodlum_P3_113: -1458464168
+      Modern_Hoodlum_P3_114: 1431649964
+      Modern_Hoodlum_P3_115: 2009159477
+      Modern_Hoodlum_P3_116: 1118449723
+      Modern_Hoodlum_P3_117: -412719581
+      Modern_Hoodlum_P3_118: -1125516486
+      Modern_Hoodlum_P3_119: -2047693641
+      Modern_Hoodlum_P3_12: -830811035
+      Modern_Hoodlum_P3_120: 1082014505
+      Modern_Hoodlum_P3_121: 1078950537
+      Modern_Hoodlum_P3_122: -1243539552
+      Modern_Hoodlum_P3_123: 792524704
+      Modern_Hoodlum_P3_124: 1933235135
+      Modern_Hoodlum_P3_125: -622221642
+      Modern_Hoodlum_P3_126: 1910983001
+      Modern_Hoodlum_P3_127: 1098413117
+      Modern_Hoodlum_P3_128: -1626753806
+      Modern_Hoodlum_P3_129: 785478988
+      Modern_Hoodlum_P3_13: -731764961
+      Modern_Hoodlum_P3_130: 1440104112
+      Modern_Hoodlum_P3_131: -137262190
+      Modern_Hoodlum_P3_132: -1390784679
+      Modern_Hoodlum_P3_133: 433796102
+      Modern_Hoodlum_P3_134: -1954194275
+      Modern_Hoodlum_P3_135: -212971327
+      Modern_Hoodlum_P3_136: -1897443
+      Modern_Hoodlum_P3_137: 1765312400
+      Modern_Hoodlum_P3_138: 1328399140
+      Modern_Hoodlum_P3_139: 2108481433
+      Modern_Hoodlum_P3_14: -187736105
+      Modern_Hoodlum_P3_140: -1097421212
+      Modern_Hoodlum_P3_141: 1833056934
+      Modern_Hoodlum_P3_142: 574107910
+      Modern_Hoodlum_P3_143: 25609541
+      Modern_Hoodlum_P3_144: 962433175
+      Modern_Hoodlum_P3_145: 864289106
+      Modern_Hoodlum_P3_146: 187509982
+      Modern_Hoodlum_P3_147: -245599717
+      Modern_Hoodlum_P3_148: -649961093
+      Modern_Hoodlum_P3_149: -1963532943
+      Modern_Hoodlum_P3_15: -249044656
+      Modern_Hoodlum_P3_150: 1173950244
+      Modern_Hoodlum_P3_151: -683430646
+      Modern_Hoodlum_P3_152: -252523498
+      Modern_Hoodlum_P3_153: 1990719359
+      Modern_Hoodlum_P3_154: 644097598
+      Modern_Hoodlum_P3_155: 1808163530
+      Modern_Hoodlum_P3_156: 715035394
+      Modern_Hoodlum_P3_157: -44109759
+      Modern_Hoodlum_P3_158: -1983270461
+      Modern_Hoodlum_P3_159: 202549496
+      Modern_Hoodlum_P3_16: 539694740
+      Modern_Hoodlum_P3_160: -1970936502
+      Modern_Hoodlum_P3_161: -1899738585
+      Modern_Hoodlum_P3_162: -475118503
+      Modern_Hoodlum_P3_163: 58378928
+      Modern_Hoodlum_P3_164: -651342833
+      Modern_Hoodlum_P3_165: 1595035252
+      Modern_Hoodlum_P3_166: -1321374405
+      Modern_Hoodlum_P3_167: 570187748
+      Modern_Hoodlum_P3_168: -412226669
+      Modern_Hoodlum_P3_169: -463516793
+      Modern_Hoodlum_P3_17: 1543802825
+      Modern_Hoodlum_P3_170: 500083520
+      Modern_Hoodlum_P3_171: -1820431147
+      Modern_Hoodlum_P3_172: -382986282
+      Modern_Hoodlum_P3_173: -1337713330
+      Modern_Hoodlum_P3_174: 1840120782
+      Modern_Hoodlum_P3_175: -165072586
+      Modern_Hoodlum_P3_176: -316835306
+      Modern_Hoodlum_P3_177: 233118386
+      Modern_Hoodlum_P3_178: 714944566
+      Modern_Hoodlum_P3_179: 1246909820
+      Modern_Hoodlum_P3_18: -1065052403
+      Modern_Hoodlum_P3_180: -543750766
+      Modern_Hoodlum_P3_181: -1610064942
+      Modern_Hoodlum_P3_182: 827938611
+      Modern_Hoodlum_P3_183: -1611315179
+      Modern_Hoodlum_P3_184: -66575840
+      Modern_Hoodlum_P3_185: -487762423
+      Modern_Hoodlum_P3_186: 41891991
+      Modern_Hoodlum_P3_187: -819508676
+      Modern_Hoodlum_P3_188: -1792732213
+      Modern_Hoodlum_P3_189: -26233198
+      Modern_Hoodlum_P3_19: -1977230729
+      Modern_Hoodlum_P3_190: -649108083
+      Modern_Hoodlum_P3_191: -739551470
+      Modern_Hoodlum_P3_192: 1559780428
+      Modern_Hoodlum_P3_193: 1409411478
+      Modern_Hoodlum_P3_194: -1992589994
+      Modern_Hoodlum_P3_195: -696476020
+      Modern_Hoodlum_P3_196: 309470177
+      Modern_Hoodlum_P3_197: -1669961946
+      Modern_Hoodlum_P3_198: -2048825286
+      Modern_Hoodlum_P3_199: 1984321079
+      Modern_Hoodlum_P3_2: -170615212
+      Modern_Hoodlum_P3_20: -1442019201
+      Modern_Hoodlum_P3_200: 1557552712
+      Modern_Hoodlum_P3_201: 1417385211
+      Modern_Hoodlum_P3_202: -589865612
+      Modern_Hoodlum_P3_203: 9819761
+      Modern_Hoodlum_P3_204: -1787351831
+      Modern_Hoodlum_P3_205: -1917904849
+      Modern_Hoodlum_P3_206: 645328488
+      Modern_Hoodlum_P3_207: 806253984
+      Modern_Hoodlum_P3_208: 569194014
+      Modern_Hoodlum_P3_209: -888272604
+      Modern_Hoodlum_P3_21: 987083813
+      Modern_Hoodlum_P3_210: -41840576
+      Modern_Hoodlum_P3_211: 1523046105
+      Modern_Hoodlum_P3_212: -228703796
+      Modern_Hoodlum_P3_213: 679282362
+      Modern_Hoodlum_P3_214: -524575680
+      Modern_Hoodlum_P3_215: 264726846
+      Modern_Hoodlum_P3_216: 1394482684
+      Modern_Hoodlum_P3_217: 490029717
+      Modern_Hoodlum_P3_218: 1741764525
+      Modern_Hoodlum_P3_219: 257539188
+      Modern_Hoodlum_P3_22: -753341108
+      Modern_Hoodlum_P3_220: -32607603
+      Modern_Hoodlum_P3_221: -1472364334
+      Modern_Hoodlum_P3_222: -883557880
+      Modern_Hoodlum_P3_223: 229922599
+      Modern_Hoodlum_P3_224: 308149708
+      Modern_Hoodlum_P3_225: -835351053
+      Modern_Hoodlum_P3_226: -11810816
+      Modern_Hoodlum_P3_227: 920812408
+      Modern_Hoodlum_P3_228: -1594665405
+      Modern_Hoodlum_P3_229: 209158782
+      Modern_Hoodlum_P3_23: -808225461
+      Modern_Hoodlum_P3_230: 549839706
+      Modern_Hoodlum_P3_231: -1103471359
+      Modern_Hoodlum_P3_232: 1041106254
+      Modern_Hoodlum_P3_233: 863252685
+      Modern_Hoodlum_P3_234: -713212864
+      Modern_Hoodlum_P3_235: 16774787
+      Modern_Hoodlum_P3_236: -1175404363
+      Modern_Hoodlum_P3_237: -288807199
+      Modern_Hoodlum_P3_238: 1801753953
+      Modern_Hoodlum_P3_239: 692576514
+      Modern_Hoodlum_P3_24: 475045992
+      Modern_Hoodlum_P3_240: -255176448
+      Modern_Hoodlum_P3_241: 1224551043
+      Modern_Hoodlum_P3_242: -478525102
+      Modern_Hoodlum_P3_243: 672084632
+      Modern_Hoodlum_P3_244: 1462570743
+      Modern_Hoodlum_P3_245: -1852390612
+      Modern_Hoodlum_P3_246: -2134248517
+      Modern_Hoodlum_P3_247: -2111198813
+      Modern_Hoodlum_P3_248: -190924857
+      Modern_Hoodlum_P3_249: -598326726
+      Modern_Hoodlum_P3_25: 928231281
+      Modern_Hoodlum_P3_250: 1905624310
+      Modern_Hoodlum_P3_251: 1326758421
+      Modern_Hoodlum_P3_252: 142755823
+      Modern_Hoodlum_P3_253: -1585944386
+      Modern_Hoodlum_P3_254: 1891501011
+      Modern_Hoodlum_P3_255: -2027140105
+      Modern_Hoodlum_P3_256: -634751285
+      Modern_Hoodlum_P3_257: -412952033
+      Modern_Hoodlum_P3_258: -407183379
+      Modern_Hoodlum_P3_259: 1259780024
+      Modern_Hoodlum_P3_26: -600139733
+      Modern_Hoodlum_P3_260: -780243217
+      Modern_Hoodlum_P3_261: 974158033
+      Modern_Hoodlum_P3_262: 629358621
+      Modern_Hoodlum_P3_263: 998068545
+      Modern_Hoodlum_P3_264: -1673124762
+      Modern_Hoodlum_P3_265: 2067482836
+      Modern_Hoodlum_P3_266: -1430798115
+      Modern_Hoodlum_P3_267: -1405983834
+      Modern_Hoodlum_P3_268: -1582880835
+      Modern_Hoodlum_P3_269: -636192509
+      Modern_Hoodlum_P3_27: -315369843
+      Modern_Hoodlum_P3_270: 549400493
+      Modern_Hoodlum_P3_271: -2114308963
+      Modern_Hoodlum_P3_272: 1776984524
+      Modern_Hoodlum_P3_273: -2093442691
+      Modern_Hoodlum_P3_274: 1379714412
+      Modern_Hoodlum_P3_275: 1915700892
+      Modern_Hoodlum_P3_276: -299961493
+      Modern_Hoodlum_P3_277: -1717030698
+      Modern_Hoodlum_P3_278: 532984265
+      Modern_Hoodlum_P3_279: -783041662
+      Modern_Hoodlum_P3_28: 1655055024
+      Modern_Hoodlum_P3_280: -802944260
+      Modern_Hoodlum_P3_281: -1762722261
+      Modern_Hoodlum_P3_282: 1658388882
+      Modern_Hoodlum_P3_283: 1116654485
+      Modern_Hoodlum_P3_284: -905436928
+      Modern_Hoodlum_P3_285: 1791421501
+      Modern_Hoodlum_P3_286: -1869967506
+      Modern_Hoodlum_P3_287: -2069080019
+      Modern_Hoodlum_P3_29: -1804619694
+      Modern_Hoodlum_P3_3: -682558648
+      Modern_Hoodlum_P3_30: -53087181
+      Modern_Hoodlum_P3_31: -18936747
+      Modern_Hoodlum_P3_32: 1223048712
+      Modern_Hoodlum_P3_33: -1109335141
+      Modern_Hoodlum_P3_34: 494964490
+      Modern_Hoodlum_P3_35: -687092633
+      Modern_Hoodlum_P3_36: -1925449206
+      Modern_Hoodlum_P3_37: 1271694547
+      Modern_Hoodlum_P3_38: 43622725
+      Modern_Hoodlum_P3_39: 1649568744
+      Modern_Hoodlum_P3_4: -2130126276
+      Modern_Hoodlum_P3_40: -450247025
+      Modern_Hoodlum_P3_41: 475858636
+      Modern_Hoodlum_P3_42: 274085702
+      Modern_Hoodlum_P3_43: 1436702918
+      Modern_Hoodlum_P3_44: 250298845
+      Modern_Hoodlum_P3_45: 1940495833
+      Modern_Hoodlum_P3_46: 1846395641
+      Modern_Hoodlum_P3_47: -805563891
+      Modern_Hoodlum_P3_48: -1634812270
+      Modern_Hoodlum_P3_49: -607059773
+      Modern_Hoodlum_P3_5: 1104913557
+      Modern_Hoodlum_P3_50: -2046718664
+      Modern_Hoodlum_P3_51: -1549388629
+      Modern_Hoodlum_P3_52: -482531584
+      Modern_Hoodlum_P3_53: 1661211207
+      Modern_Hoodlum_P3_54: 1463860994
+      Modern_Hoodlum_P3_55: 1596260677
+      Modern_Hoodlum_P3_56: 1316140930
+      Modern_Hoodlum_P3_57: -736537551
+      Modern_Hoodlum_P3_58: -1235252338
+      Modern_Hoodlum_P3_59: -2049746825
+      Modern_Hoodlum_P3_6: 1282041214
+      Modern_Hoodlum_P3_60: -1787330274
+      Modern_Hoodlum_P3_61: 623844885
+      Modern_Hoodlum_P3_62: 1068087595
+      Modern_Hoodlum_P3_63: 1546478640
+      Modern_Hoodlum_P3_64: -336653806
+      Modern_Hoodlum_P3_65: -1693755334
+      Modern_Hoodlum_P3_66: 1276549144
+      Modern_Hoodlum_P3_67: 928915072
+      Modern_Hoodlum_P3_68: 1978447755
+      Modern_Hoodlum_P3_69: 1125806801
+      Modern_Hoodlum_P3_7: 114774249
+      Modern_Hoodlum_P3_70: -313607590
+      Modern_Hoodlum_P3_71: 2008954411
+      Modern_Hoodlum_P3_72: -685621293
+      Modern_Hoodlum_P3_73: 111803661
+      Modern_Hoodlum_P3_74: 980942157
+      Modern_Hoodlum_P3_75: 1730396701
+      Modern_Hoodlum_P3_76: 1247276619
+      Modern_Hoodlum_P3_77: -663399174
+      Modern_Hoodlum_P3_78: -1762798744
+      Modern_Hoodlum_P3_79: 264028578
+      Modern_Hoodlum_P3_8: 1340818135
+      Modern_Hoodlum_P3_80: -1726122451
+      Modern_Hoodlum_P3_81: -1925380965
+      Modern_Hoodlum_P3_82: 2014882258
+      Modern_Hoodlum_P3_83: -916294294
+      Modern_Hoodlum_P3_84: 2083855364
+      Modern_Hoodlum_P3_85: -1113663657
+      Modern_Hoodlum_P3_86: -2079399002
+      Modern_Hoodlum_P3_87: 779433737
+      Modern_Hoodlum_P3_88: 659470601
+      Modern_Hoodlum_P3_89: 130681323
+      Modern_Hoodlum_P3_9: -2014229169
+      Modern_Hoodlum_P3_90: -829539020
+      Modern_Hoodlum_P3_91: -906501241
+      Modern_Hoodlum_P3_92: -1377993177
+      Modern_Hoodlum_P3_93: 1738010118
+      Modern_Hoodlum_P3_94: -1486040694
+      Modern_Hoodlum_P3_95: 371047281
+      Modern_Hoodlum_P3_96: -735771390
+      Modern_Hoodlum_P3_97: -1585403661
+      Modern_Hoodlum_P3_98: 948094449
+      Modern_Hoodlum_P3_99: -208459979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
